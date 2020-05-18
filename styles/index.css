@@ -16,20 +16,11 @@ h1 {
     text-align: center;
 }
 
-img {
+header img {
     display: block;
     margin: 0 auto;
 }
 
-.a-pay {
-    width: 400px;
-    height: 500px;
-}
-
-
-.a-hint {
-    display: block;
-    text-align: center;
-    margin: 10px auto;
-    font-size: 20px;
+section {
+    font-size: 36px;
 }
